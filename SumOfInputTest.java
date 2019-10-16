@@ -17,7 +17,8 @@ public class SumOfInputTest
      * Default constructor for test class SumOfInputTest
      */
     //Bonus Question! How is this constructor used when none is defined
-    //in the class?
+    //in the class?  
+    // The compiler would generate one .
     public SumOfInputTest()
     {
     }
